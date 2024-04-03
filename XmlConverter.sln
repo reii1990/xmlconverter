@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlConverter.Logic", "XmlConverter.Logic\XmlConverter.Logic.csproj", "{3550F4E8-6503-4858-892C-CEC293F065AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlConverter.Test", "XmlConverter.Test\XmlConverter.Test.csproj", "{3029CE67-C177-49D9-8F71-092A9A35A0D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlConverter", "XmlConverter\XmlConverter.csproj", "{B9928265-8B51-4A9D-9231-3017C88A690F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3550F4E8-6503-4858-892C-CEC293F065AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3550F4E8-6503-4858-892C-CEC293F065AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3550F4E8-6503-4858-892C-CEC293F065AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3550F4E8-6503-4858-892C-CEC293F065AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3029CE67-C177-49D9-8F71-092A9A35A0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3029CE67-C177-49D9-8F71-092A9A35A0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3029CE67-C177-49D9-8F71-092A9A35A0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3029CE67-C177-49D9-8F71-092A9A35A0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9928265-8B51-4A9D-9231-3017C88A690F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9928265-8B51-4A9D-9231-3017C88A690F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9928265-8B51-4A9D-9231-3017C88A690F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9928265-8B51-4A9D-9231-3017C88A690F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
